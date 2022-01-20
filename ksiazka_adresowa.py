@@ -61,4 +61,3 @@ by_email = sorted(cards, key=lambda person: person.email)
 for c in by_email:
     print(c)
 print()
-
